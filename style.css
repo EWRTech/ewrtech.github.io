@@ -823,7 +823,7 @@ body {
 @media (max-width: 768px) {
     .qrbox {
     display: block;
-    max-width: 400px;
+    max-width: 360px;
     margin-left: auto;
     margin-right: auto;
     }
